@@ -1,0 +1,57 @@
+C:\Users\pc\source\repos\AdisyonTakip\bin\Debug\AdisyonTakip.exe
+C:\Users\pc\source\repos\AdisyonTakip\bin\Debug\AdisyonTakip.pdb
+C:\Users\pc\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.Anaform.resources
+C:\Users\pc\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.Properties.Resources.resources
+C:\Users\pc\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.exe
+C:\Users\pc\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.pdb
+C:\Users\pc\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.Login.resources
+C:\Users\pc\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.MasaIslemleri.Adisyonform.resources
+C:\Users\pc\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.MasaIslemleri.Bolumler.resources
+C:\Users\pc\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.MasaIslemleri.Masalar.resources
+C:\Users\pc\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.StokIslemleri.Stoklar.resources
+C:\Users\pc\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.MasaIslemleri.AdetGir.resources
+C:\Users\pc\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.MasaIslemleri.HesapAl.resources
+C:\Users\pc\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.Sistem.Master.resources
+C:\Users\pc\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.Yonetim.Raporlar.resources
+C:\Users\Mustafa\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.csproj.AssemblyReference.cache
+C:\Users\Mustafa\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.Anaform.resources
+C:\Users\Mustafa\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.Login.resources
+C:\Users\Mustafa\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.MasaIslemleri.AdetGir.resources
+C:\Users\Mustafa\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.MasaIslemleri.Adisyonform.resources
+C:\Users\Mustafa\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.MasaIslemleri.Bolumler.resources
+C:\Users\Mustafa\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.MasaIslemleri.HesapAl.resources
+C:\Users\Mustafa\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.MasaIslemleri.Masalar.resources
+C:\Users\Mustafa\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.Properties.Resources.resources
+C:\Users\Mustafa\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.Sistem.Master.resources
+C:\Users\Mustafa\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.StokIslemleri.Stoklar.resources
+C:\Users\Mustafa\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.Yonetim.Raporlar.resources
+C:\Users\Mustafa\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.csproj.GenerateResource.cache
+C:\Users\Mustafa\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.csproj.CoreCompileInputs.cache
+C:\Users\Mustafa\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.exe
+C:\Users\Mustafa\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.pdb
+C:\Users\Mustafa\source\repos\AdisyonTakip\bin\Debug\AdisyonTakip.exe
+C:\Users\Mustafa\source\repos\AdisyonTakip\bin\Debug\AdisyonTakip.pdb
+D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\bin\Debug\AdisyonTakip.exe
+D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\bin\Debug\AdisyonTakip.pdb
+D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.csproj.AssemblyReference.cache
+D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.Anaform.resources
+D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.Login.resources
+D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.MasaIslemleri.AdetGir.resources
+D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.MasaIslemleri.Adisyonform.resources
+D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.MasaIslemleri.Bolumler.resources
+D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.MasaIslemleri.HesapAl.resources
+D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.MasaIslemleri.Masalar.resources
+D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.Properties.Resources.resources
+D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.Sistem.Master.resources
+D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.StokIslemleri.Stoklar.resources
+D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.Yonetim.Raporlar.resources
+D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.csproj.GenerateResource.cache
+D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.csproj.CoreCompileInputs.cache
+D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.exe
+D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.pdb
+D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.MasaIslemleri.GarsonSec.resources
+D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.StokIslemleri.StokGirisCikis.resources
+D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.StokIslemleri.StokTakibi.resources

@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{67DB9138-4ABD-49BF-BC4F-371882E2BA27}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AdisyonTakip</RootNamespace>
+    <AssemblyName>AdisyonTakip</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Anaform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anaform.Designer.cs">
+      <DependentUpon>Anaform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasaIslemleri\AdetGir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasaIslemleri\AdetGir.Designer.cs">
+      <DependentUpon>AdetGir.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasaIslemleri\Adisyonform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasaIslemleri\Adisyonform.Designer.cs">
+      <DependentUpon>Adisyonform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasaIslemleri\Bolumler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasaIslemleri\Bolumler.Designer.cs">
+      <DependentUpon>Bolumler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasaIslemleri\GarsonSec.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasaIslemleri\GarsonSec.Designer.cs">
+      <DependentUpon>GarsonSec.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasaIslemleri\HesapAl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasaIslemleri\HesapAl.Designer.cs">
+      <DependentUpon>HesapAl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasaIslemleri\Masalar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MasaIslemleri\Masalar.Designer.cs">
+      <DependentUpon>Masalar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MyClass\Global\glb.cs" />
+    <Compile Include="MyClass\Global\SQLConnectionClass.cs" />
+    <Compile Include="MyClass\Model\Adisyon.cs" />
+    <Compile Include="MyClass\Model\Bolumler.cs" />
+    <Compile Include="MyClass\Model\Hesaplar.cs" />
+    <Compile Include="MyClass\Model\Kullanici.cs" />
+    <Compile Include="MyClass\Model\Masalar.cs" />
+    <Compile Include="MyClass\Model\Stoklar.cs" />
+    <Compile Include="MyClass\Model\Stok_Hareket.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sistem\Master.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sistem\Master.Designer.cs">
+      <DependentUpon>Master.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StokIslemleri\StokGirisCikis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StokIslemleri\StokGirisCikis.Designer.cs">
+      <DependentUpon>StokGirisCikis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StokIslemleri\Stoklar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StokIslemleri\Stoklar.Designer.cs">
+      <DependentUpon>Stoklar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StokIslemleri\StokTakibi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StokIslemleri\StokTakibi.Designer.cs">
+      <DependentUpon>StokTakibi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Yonetim\Raporlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Yonetim\Raporlar.Designer.cs">
+      <DependentUpon>Raporlar.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Anaform.resx">
+      <DependentUpon>Anaform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasaIslemleri\AdetGir.resx">
+      <DependentUpon>AdetGir.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasaIslemleri\Adisyonform.resx">
+      <DependentUpon>Adisyonform.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasaIslemleri\Bolumler.resx">
+      <DependentUpon>Bolumler.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasaIslemleri\GarsonSec.resx">
+      <DependentUpon>GarsonSec.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasaIslemleri\HesapAl.resx">
+      <DependentUpon>HesapAl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MasaIslemleri\Masalar.resx">
+      <DependentUpon>Masalar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Sistem\Master.resx">
+      <DependentUpon>Master.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StokIslemleri\StokGirisCikis.resx">
+      <DependentUpon>StokGirisCikis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StokIslemleri\Stoklar.resx">
+      <DependentUpon>Stoklar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StokIslemleri\StokTakibi.resx">
+      <DependentUpon>StokTakibi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Yonetim\Raporlar.resx">
+      <DependentUpon>Raporlar.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cay.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
