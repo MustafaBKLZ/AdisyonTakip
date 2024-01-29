@@ -182,6 +182,7 @@
     <EmbeddedResource Include="Yonetim\Raporlar.resx">
       <DependentUpon>Raporlar.cs</DependentUpon>
     </EmbeddedResource>
+    <None Include="AdisyonTakip.bak" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
