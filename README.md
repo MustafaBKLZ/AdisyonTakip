@@ -28,3 +28,7 @@ Ekranın ortasında masa bilgisi görünür. Burada dikkat edilecek şeylerden b
 NOT: Burada kötüye kullanımı için RFID okuyucu bir cihaz ile garsonlara verilen kartların okutulması ile engellenebilir.
 Eklenen ürünler sağdaki listeye düşer. 
 Hesap al butonu ile hesap alınır, adisyon kapatılır ve masaya eklenen ürünler stoktan otomatik düşülür.
+
+
+## Lisans
+[MIT](https://choosealicense.com/licenses/mit/)
