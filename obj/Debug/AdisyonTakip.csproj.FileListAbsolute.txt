@@ -55,3 +55,6 @@ D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.pdb
 D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.MasaIslemleri.GarsonSec.resources
 D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.StokIslemleri.StokGirisCikis.resources
 D:\Mustafa BÜKÜLMEZ\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.StokIslemleri.StokTakibi.resources
+C:\Users\Mustafa\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.MasaIslemleri.GarsonSec.resources
+C:\Users\Mustafa\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.StokIslemleri.StokGirisCikis.resources
+C:\Users\Mustafa\source\repos\AdisyonTakip\obj\Debug\AdisyonTakip.StokIslemleri.StokTakibi.resources

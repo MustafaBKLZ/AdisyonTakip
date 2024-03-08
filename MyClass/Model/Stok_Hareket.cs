@@ -83,7 +83,7 @@ namespace AdisyonTakip.MyClass.Model
                 }
                 if (stok_adet - sth.sth_adet < 0 & stok_eksi_olabilir == 1)
                 {
-
+                    _Save(sth);
                 }
             }
             if (sth.sth_tip == "Giriş")

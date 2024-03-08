@@ -106,6 +106,7 @@ namespace AdisyonTakip.MyClass.Model
                                         + "          ,[sto_gorsel]"
                                         + "          ,[sto_min]"
                                         + "          ,[sto_max]"
+                                        + "          ,[sto_eksi_olabilir]"
                                         + ")         "
                                         + "    VALUES                            "
                                         + "          ('" + stok.sto_kodu.Trim() + "' "
@@ -119,6 +120,7 @@ namespace AdisyonTakip.MyClass.Model
                                         + "          , '" + stok.sto_gorsel + "'   "
                                         + "          , " + stok.sto_min + "   "
                                         + "          , " + stok.sto_max + "   "
+                                        + "          , " + stok.sto_eksi_olabilir + "   "
 
 
                                         + ") ");
@@ -147,6 +149,8 @@ namespace AdisyonTakip.MyClass.Model
 
                                         + "          ,[sto_min]     =  " + stok.sto_min + "   "
                                         + "          ,[sto_max]     =  " + stok.sto_max + "   "
+                                        + "          ,[sto_eksi_olabilir]     =  " + stok.sto_eksi_olabilir + "   "
+
 
 
 
